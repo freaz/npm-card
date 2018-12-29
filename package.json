@@ -1,6 +1,6 @@
 {
   "name": "freaz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Ondrej Musil (@freaz)",
   "main": "/bin/card.js",
   "bin": {
